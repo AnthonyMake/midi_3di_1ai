@@ -6,6 +6,10 @@ Detecta flancos de subida en tres entradas digitales y envía 0 o 127 en los par
 Requiere flashear el dfu, con firmware Mocolufa-Dual y Atmel Flip
 https://github.com/kuwatay/mocolufa
 
+En resumen:Tres botones y un potenciometro que sirven para controlar VST's
+
 
 Antonio Vásquez Briones.
 Octubre 2017
+
+![alt text](https://photos.app.goo.gl/VhoOB3elAD4wPASH2)
